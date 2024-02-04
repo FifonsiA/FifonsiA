@@ -38,9 +38,6 @@ You can click the Preview link to take a look at your changes.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"><br>Docker
     </td>
     <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes"><br>Kubernetes
-    </td>
-    <td align="center" width="50px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible"><br>Ansible
     </td>
     <td align="center" width="50px">
@@ -57,6 +54,9 @@ You can click the Preview link to take a look at your changes.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" alt="Groovy"><br>Groovy
     </td>
     --->
+    <td align="center" width="50px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes"><br>Kubernetes
+    </td>
   </tr>
 <table>
 

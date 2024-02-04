@@ -49,12 +49,14 @@ You can click the Preview link to take a look at your changes.
     <td align="center" width="50px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"><br>Python
     </td>
+    <!---
     <td align="center" width="50px" height="45px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"><br>Java
     </td>
     <td align="center" width="50px" height="45px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" alt="Groovy"><br>Groovy
     </td>
+    --->
   </tr>
 <table>
 
